@@ -1,0 +1,37 @@
+.body {
+    margin: 0;
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    width: 73%;
+    height: 100px;
+    padding: 1%;
+
+}
+.logo {
+    height: 100px;
+    width: 23%;
+    padding: 1%;
+}
+.inline-block li {
+    display: inline-block;
+    vertical-align: top;
+    
+
+}
+.selfie {
+    height: 300px;
+    padding: 25px;
+}
+.content {
+    height: 400px;
+    text-align: center;
+}
+.footer {
+    background-color: #373738;
+}
+.footer li {
+    display: inline-block;
+    vertical-align: top;
+}
